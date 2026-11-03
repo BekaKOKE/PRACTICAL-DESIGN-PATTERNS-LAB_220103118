@@ -2,6 +2,5 @@ out/
 *.class
 .idea/
 *.iml
-.claude-flow/
 ruvector.db
 *.stackdump
